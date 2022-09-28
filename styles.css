@@ -119,6 +119,27 @@ section ul li:hover {
     border: 1px solid white;
 }
 
+.books_list img {
+    width: 90px;
+    height: 90px;
+    border-radius: 8px;
+
+}
+
+.movies_list img {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    border: 1px solid white;
+}
+
+.series_list img {
+    width: 90px;
+    height: 90px;
+    border-radius: 8px;
+
+}
+
 /*animations*/
 
 header div {
